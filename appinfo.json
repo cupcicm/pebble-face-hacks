@@ -30,13 +30,13 @@
                 "type": "font"
             },
             {
-                "file": "images/notok.png",
-                "name": "IMAGES_NOTOK_PNG",
+                "file": "images/ok.png",
+                "name": "IMAGES_OK_PNG",
                 "type": "png"
             },
             {
-                "file": "images/ok.png",
-                "name": "IMAGES_OK_PNG",
+                "file": "images/notok.png",
+                "name": "IMAGES_NOTOK_PNG",
                 "type": "png"
             }
         ]
